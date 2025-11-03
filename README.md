@@ -15,10 +15,10 @@ This project was developed as part of our **Augmented and Virtual Reality** subj
 
 ## Features  
 
-- 🧠 **AI-powered Game Master** — dynamically adjusts puzzles and hints.  
-- 🌌 **Multi-realm design** — teleport between worlds like temples, cities, and spaceships via magical portals.  
+- 🧠 **AI-powered Game Master** - dynamically adjusts puzzles and hints.  
+- 🌌 **Multi-realm design** - teleport between worlds like temples, cities, and spaceships via magical portals.  
 - 🪄 **Voice & gesture-based spellcasting** for immersive interaction.  
-- 🧩 **Adaptive difficulty system** — challenges scale based on player performance.  
+- 🧩 **Adaptive difficulty system** - challenges scale based on player performance.  
 - 🔊 **AI narration** and guided storytelling through voice.  
 
 ---
