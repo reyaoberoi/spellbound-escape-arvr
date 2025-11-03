@@ -43,7 +43,7 @@ This project was developed as part of our **Augmented and Virtual Reality** subj
 
 ---
 
-## [Download the Unity package]
+Download the Unity package:
 (https://drive.google.com/)
 
 ---
