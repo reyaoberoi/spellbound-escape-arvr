@@ -13,6 +13,11 @@ This project was developed as part of our **Augmented and Virtual Reality** subj
 
 ---
 
+Download the Unity package:
+([https://drive.google.com/](https://drive.google.com/file/d/15VNZ8Z_gTyDw797TLJWFhCV804WJ3hS0/view?usp=sharing))
+
+---
+
 ## Features  
 
 - 🧠 **AI-powered Game Master** - dynamically adjusts puzzles and hints.  
@@ -40,11 +45,6 @@ This project was developed as part of our **Augmented and Virtual Reality** subj
 3. Integration of AI-driven puzzle logic  
 4. Voice and gesture input system setup  
 5. Testing, debugging, and immersive flow optimization  
-
----
-
-Download the Unity package:
-([https://drive.google.com/](https://drive.google.com/file/d/15VNZ8Z_gTyDw797TLJWFhCV804WJ3hS0/view?usp=sharing))
 
 ---
 
