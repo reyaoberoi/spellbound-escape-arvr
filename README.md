@@ -1,7 +1,7 @@
 # Spellbound Escape  
 
 An **AI-powered AR/VR escape-room adventure** built in **Unity** using **Meta XR SDK**.  
-Explore portals that transport you between mystical realms — from ancient temples to futuristic spaceships — where every puzzle adapts to your playstyle.  
+Explore portals that transport you between mystical realms - from ancient temples to futuristic spaceships - where every puzzle adapts to your playstyle.  
 
 ---
 
@@ -9,7 +9,7 @@ Explore portals that transport you between mystical realms — from ancient temp
 
 This project was developed as part of our **Augmented and Virtual Reality** subject to explore immersive 3D interaction, scene linking, and adaptive AI systems in virtual spaces.  
 
-**Spellbound Escape** merges storytelling, exploration, and intelligence — without combat — to create a peaceful yet challenging escape experience driven by curiosity and logic.  
+**Spellbound Escape** merges storytelling, exploration, and intelligence - without combat - to create a peaceful yet challenging escape experience driven by curiosity and logic.  
 
 ---
 
@@ -76,7 +76,7 @@ Here’s a glimpse into some of the realms inside *Spellbound Escape* ✨
 
 ## Inspiration  
 
-Inspired by the immersive worlds of *Harry Potter* and the mystery of escape-room puzzles — reimagined in the realm of XR technology.  
+Inspired by the immersive worlds of *Harry Potter* and the mystery of escape-room puzzles - reimagined in the realm of XR technology.  
 
 ---
 
