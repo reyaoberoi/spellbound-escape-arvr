@@ -33,7 +33,7 @@ This project was developed as part of our **Augmented and Virtual Reality** subj
 
 ---
 
-## 🧑‍💻 Development Flow  
+## Development Flow  
 
 1. Environment design and portal linking  
 2. Scene transitions setup using Unity triggers  
